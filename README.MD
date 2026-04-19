@@ -14,3 +14,16 @@ YOLO significantly outperforms classical methods:
 
 ## Conclusion
 Deep learning (YOLO) provides robust and accurate detection, while classical CV struggles under real-world conditions (blur, rotation, lighting).
+
+
+## Dataset
+
+The dataset used in this project is available on Kaggle:
+
+- Train Data
+https://www.kaggle.com/datasets/aysuserkerova/traindata
+
+- Test Data
+https://www.kaggle.com/datasets/aysuserkerova/testdata
+
+Due to its large size, it is not included in this repository.
